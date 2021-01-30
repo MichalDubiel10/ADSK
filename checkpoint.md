@@ -18,7 +18,7 @@ ssh-add {sciezka do klucza}
 - [X] install java runtime env
     - https://corretto.aws/downloads/latest/amazon-corretto-11-x64-al2-jre.rpm
 - [X] download jar
-    - https://github.com/jkanclerz/vouchershop-N3511/releases/download/v0.2/vouchershop.jar
+    - https://github.com/MichalDubiel10/Release/raw/master/vouchershop.jar
 - [X] java -jar app.jar --server.port=8080
 - [X] define dir structure
 - [X] create user
